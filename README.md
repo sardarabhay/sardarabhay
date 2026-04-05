@@ -51,8 +51,8 @@ A production-grade roommate management app managing 14 domain models across hous
 - **Multi-tenant data isolation** via household-scoped Prisma queries with cascade deletes
 - JWT + Bcrypt + Google OAuth 2.0 auth; optimized dashboard queries cutting latency by **30%**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-10b981?style=flat)](https://ecommerce-sigma-bay-70.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-111827?style=flat&logo=github)](https://github.com/sardarabhay/ecommerce_cartflow)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-10b981?style=flat)](https://project-roommates.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-111827?style=flat&logo=github)](https://github.com/sardarabhay/Project_Roommates)
 
 ---
 
@@ -82,14 +82,7 @@ Secure healthcare platform with role-based access for patients and admins.
 [![Live Demo](https://img.shields.io/badge/Live-Demo-10b981?style=flat)](https://healthcare-synapse.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-111827?style=flat&logo=github)](https://github.com/sardarabhay/healthcare_synapse)
 
----
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sardarabhay&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardarabhay&layout=compact&theme=default&hide_border=true" height="150" />
-</div>
 
 ---
 
