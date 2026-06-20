@@ -17,7 +17,7 @@
 
 Final-year CS student at **Fergusson College, Pune** (CGPA 9.27), building full-stack products end-to-end — from normalized DB schemas to production-ready React UIs. I care about systems thinking: real-time sync, caching layers, secure APIs, and clean abstractions.
 
-Currently open to **Full Stack / React Developer internships** in Pune or remote.
+Currently open to **Full Stack / React Developer internships** in Mumbai, Pune or remote.
 
 ---
 
@@ -107,5 +107,5 @@ Currently open to **Full Stack / React Developer internships** in Pune or remote
 ---
 
 <div align="center">
-  <sub>Open to work · Full Stack / React Developer Intern · Pune & Remote</sub>
+  <sub>Open to work · Full Stack / React Developer Intern · Mumbai, Pune & Remote</sub>
 </div>
